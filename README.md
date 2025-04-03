@@ -1,16 +1,20 @@
 # DataKind_Y25_FIN_INCL
 Repository for everything related to DataKit effort from March to April of Y2025 for Financial inclusion and economic access
 
-Files:
-From Cesnsus table: 
-DIS_WORK: disabled population among working class -  DDW-0000C-23 
-DISABLED POPULATION AMONG MAIN WORKERS, MARGINAL WORKERS, NON-WORKERS BY TYPE OF DISABILITY, AGE AND SEX
+Input Files for analysis:
 
-DIS_TYPE_EDU_LVL: disb type, education level DDW-0000C-29
-DISABLED POPULATION BY TYPE OF DISABILITY, EDUCATIONAL LEVEL AND SEX
+From Cesnsus table for year 2011: 
+DIS_WORK: disabled population among working class 
+DDW-0000C-23.csv : disabled population among main workers, marginal workers, non-workers by type of disability, age and sex
 
-GEN_WORK: general_ work vs education DDWCITY-B-03-0000
-MAIN WORKERS, MARGINAL WORKERS, NON-WORKERS AND THOSE MARGINAL WORKERS, NON-WORKERS SEEKING/ AVAILABLE FOR WORK CLASSIFIED BY EDUCATIONAL LEVEL AND SEX - 2011
+DIS_TYPE_EDU_LVL.csv: disb type, education level 
+DDW-0000C-29 : c-29 disabled population by type of disability, educational level and sex - 2011
+
+
+GEN_WORK.csv: general_ work vs education 
+ DDWCITY-B-03-0000 : main workers, marginal workers, non-workers and those marginal workers, non-workers seeking/ available for work classified by educational level and sex - 2011
+Note: 1. 'Literate' includes figures for 'literates without educational level' and 'educational levels not classifiable'.			
+         2. 'Matric/ secondary but below graduate' includes 'non-technical diploma and certificate not equal to degree'.			
 
 From NSS
-Availability of facilities and difficulties faced by the persons with at least one disability including if they were working before and after disability.
+nss.sav: Availability of facilities and difficulties faced by the persons with at least one disability including if they were working before and after disability.
