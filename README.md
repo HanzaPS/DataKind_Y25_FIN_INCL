@@ -18,3 +18,4 @@ Note: 1. 'Literate' includes figures for 'literates without educational level' a
 
 From NSS
 nss.sav: Availability of facilities and difficulties faced by the persons with at least one disability including if they were working before and after disability.
+[Data file: Availability of facilities and difficulties faced by the persons with at least one disability; Round 76 Sch 26; Block 6 Level 12; R76260L12]
