@@ -9,6 +9,9 @@ DDW-0000C-23.csv : disabled population among main workers, marginal workers, non
 
 DIS_TYPE_EDU_LVL.csv: disb type, education level 
 DDW-0000C-29 : c-29 disabled population by type of disability, educational level and sex - 2011
+Note: 1. 'Literate' includes figures for 'literates without educational level' and 'educational levels not classifiable'.	
+         2. 'Matric or secondary but below graduate' includes 'non-technical and technical diploma' and 'certificate not equal to degree'.	
+
 
 
 GEN_WORK.csv: general_ work vs education 
